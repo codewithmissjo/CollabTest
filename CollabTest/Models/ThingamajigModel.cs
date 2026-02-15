@@ -4,4 +4,5 @@ public class ThingamajigModel
 {
     int id { get; set; }
     string name { get; set; }
+    int doodads { get; set; }
 }
