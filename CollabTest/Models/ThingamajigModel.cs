@@ -2,7 +2,7 @@ namespace CollabTest.Models;
 
 public class ThingamajigModel
 {
-    int id { get; set; }
+    int Id { get; set; }
     string name { get; set; }
     int doodads { get; set; }
 }
